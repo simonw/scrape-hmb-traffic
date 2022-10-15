@@ -1,0 +1,209 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "GhIJsp3vp8bAQkARQDVeusmeXsA",
+      "types": [
+        "plus_code"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "GhIJm8QgsHK7QkARC9ejcL2bXsA",
+      "types": [
+        "plus_code"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 37.5060624,
+          "lng": -122.4335708
+        },
+        "southwest": {
+          "lat": 37.4641051,
+          "lng": -122.4813337
+        }
+      },
+      "copyrights": "Map data ©2022",
+      "legs": [
+        {
+          "distance": {
+            "text": "4.3 mi",
+            "value": 6853
+          },
+          "duration": {
+            "text": "9 mins",
+            "value": 535
+          },
+          "end_address": "FH78+QJ Half Moon Bay, CA, USA",
+          "end_location": {
+            "lat": 37.4643965,
+            "lng": -122.4336249
+          },
+          "start_address": "GG49+CH El Granada, CA, USA",
+          "start_location": {
+            "lat": 37.5060624,
+            "lng": -122.4809731
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "79 ft",
+                "value": 24
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 5
+              },
+              "end_location": {
+                "lat": 37.5058489,
+                "lng": -122.4809734
+              },
+              "html_instructions": "Head <b>south</b> on <b>Sevilla Ave</b> toward <b>Ave Alhambra</b>",
+              "polyline": {
+                "points": "{k|cF`aqjVV?P?"
+              },
+              "start_location": {
+                "lat": 37.5060624,
+                "lng": -122.4809731
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "46 ft",
+                "value": 14
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 2
+              },
+              "end_location": {
+                "lat": 37.5057772,
+                "lng": -122.4808465
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Ave Alhambra</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "qj|cF`aqjVLW"
+              },
+              "start_location": {
+                "lat": 37.5058489,
+                "lng": -122.4809734
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "184 ft",
+                "value": 56
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 12
+              },
+              "end_location": {
+                "lat": 37.505392,
+                "lng": -122.4810183
+              },
+              "html_instructions": "Turn <b>right</b> at the 1st cross street onto <b>Capistrano Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "cj|cFh`qjVPWh@h@PN"
+              },
+              "start_location": {
+                "lat": 37.5057772,
+                "lng": -122.4808465
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "4.1 mi",
+                "value": 6648
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 478
+              },
+              "end_location": {
+                "lat": 37.4641239,
+                "lng": -122.4342343
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>CA-1 S</b>/<wbr/><b>Cabrillo Hwy N</b><div style=\"font-size:0.9em\">Pass by McDonald's (on the right in 3.7&nbsp;mi)</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ug|cFjaqjVNf@TTL[@Et@_CPm@dAkDjBsG@MfDsLl@uBv@mCFIZiAf@eB`CmIh@iB~@mDjAcEn@{BnAgEd@}Ax@sC~A}FZiAj@qBf@eBnCwJbAiDTs@^sA`@_B`@wANk@fBgGZeA@Wt@mCd@{Ax@qCn@aBRk@Ve@`@s@p@aAV]X]\\_@XYBEn@k@JIZU\\UXQz@i@b@Wt@e@|DgCh@[n@]ROjAo@tBqA~@m@lAu@f@[fAq@`BaAVMtAy@nAw@p@a@ZIx@i@ZQtCmBZQ~DeCn@a@j@]x@i@\\SPKBA|AaAt@e@z@g@\\UFQh@a@RORQTSVW@?PQJMNSt@u@PIpBsBvC}CzAaBz@}@x@_A`@a@nAsAbAeAtAyAlAqAJMFO`@c@\\]r@w@p@u@`AcAVYNQPQp@s@\\_@POVWh@k@VYTWb@e@XY`@c@TURUdAiAJEv@q@POjB_Bj@e@hAaAh@a@PM^Wj@_@JGBAZQXMVKZKNG^Mb@O|B_@FA`@ELATCN?LAL?p@An@@d@BN@dBPh@Dl@FhIp@|ALd@Dx@J~@H"
+              },
+              "start_location": {
+                "lat": 37.505392,
+                "lng": -122.4810183
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "233 ft",
+                "value": 71
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 30
+              },
+              "end_location": {
+                "lat": 37.4645763,
+                "lng": -122.4339524
+              },
+              "html_instructions": "Make a <b>U-turn</b> at <b>Kelly Ave</b>",
+              "maneuver": "uturn-left",
+              "polyline": {
+                "points": "wetcF||gjV@g@}AO"
+              },
+              "start_location": {
+                "lat": 37.4641239,
+                "lng": -122.4342343
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "131 ft",
+                "value": 40
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 8
+              },
+              "end_location": {
+                "lat": 37.4643965,
+                "lng": -122.4336249
+              },
+              "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "shtcFd{gjVDe@?C@E@A@CDCPG"
+              },
+              "start_location": {
+                "lat": 37.4645763,
+                "lng": -122.4339524
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "{k|cF`aqjVh@?^o@z@x@Nf@TTNa@fAmDpD_M@MfDsLdBcGb@sArGkUpFeRxCqKfA{DpG{TrBwHbCmI@Wt@mC~AmFbAmCx@yAhA_BtA}Az@u@x@k@nDyBjHqEnIeFnBmAxBoAdDqBp@a@ZItA{@pD_CtIoFpCcBpBmA\\UFQ|@q@h@e@v@w@dAiAPIpBsBrF_GtB}BjGuGxA_BFO`@c@pAuArByBjBqB|EeFpCyCJEv@q@|BoBpDwCzAaAhBw@n@Ub@O|B_@h@Gb@E|ACtADtBR~NlA~AP~@H@g@}AODe@@IBEVK"
+      },
+      "summary": "CA-1 S/Cabrillo Hwy N",
+      "warnings": [],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

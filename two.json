@@ -1,0 +1,185 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "GhIJm8QgsHK7QkARC9ejcL2bXsA",
+      "types": [
+        "plus_code"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "GhIJsp3vp8bAQkARQDVeusmeXsA",
+      "types": [
+        "plus_code"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 37.5060624,
+          "lng": -122.4333734
+        },
+        "southwest": {
+          "lat": 37.4643965,
+          "lng": -122.4810888
+        }
+      },
+      "copyrights": "Map data ©2022",
+      "legs": [
+        {
+          "distance": {
+            "text": "4.2 mi",
+            "value": 6708
+          },
+          "duration": {
+            "text": "9 mins",
+            "value": 513
+          },
+          "end_address": "GG49+CH El Granada, CA, USA",
+          "end_location": {
+            "lat": 37.5060624,
+            "lng": -122.4809731
+          },
+          "start_address": "FH78+QJ Half Moon Bay, CA, USA",
+          "start_location": {
+            "lat": 37.4643965,
+            "lng": -122.4336249
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "131 ft",
+                "value": 40
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 8
+              },
+              "end_location": {
+                "lat": 37.4645763,
+                "lng": -122.4339524
+              },
+              "html_instructions": "Head <b>north</b> toward <b>CA-1 N</b>",
+              "polyline": {
+                "points": "ogtcFbygjVQFEBABA@AD?BEd@"
+              },
+              "start_location": {
+                "lat": 37.4643965,
+                "lng": -122.4336249
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "4.1 mi",
+                "value": 6557
+              },
+              "duration": {
+                "text": "8 mins",
+                "value": 473
+              },
+              "end_location": {
+                "lat": 37.5052512,
+                "lng": -122.4810888
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>CA-1 N</b>/<wbr/><b>Cabrillo Hwy N</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "shtcFd{gjV}Fg@MGw@G{@IcAI]CI?}@C{BQQA{@Ga@Ae@?Y?GAaAFYBe@HWDE@eAPwAf@]Lo@ZMDSLUN[PIFSLKHIFMJGD[XeAbAi@j@gBfBcAhAGJeAhASTUTa@b@YXc@d@UVWXi@j@WVQN]^q@r@QPOPWXaAbAq@t@s@v@]\\a@b@MD_BdBeAdAqCvCy@z@[\\SRw@x@_BdBeBhBq@r@oBtBKTu@t@ORKLQPA?WVURSPSNi@`@MDoBlAm@\\]Tu@`@QLqFhDgBfA_CvAoAx@YPy@f@SXq@`@oAv@uAx@WLaB`AgAp@g@ZmAt@_Al@uBpAkAn@SNo@\\i@Z}DfCu@d@c@V{@h@YP]T[TKHo@j@CDYX]^Y\\W\\q@`Aa@r@Wd@Sj@o@`By@pCe@zAu@lCMJMh@K^cAtDa@xAuA|E_@rAW|@}@`D{@tCcApDy@vCiAxDaBzF{@rCc@~AkAjEyB|HeAhDe@fBYdA]nA_AzCK\\Md@W~@[hA?Nw@lCm@tBgDrLGJQh@Wt@a@fA[`ACD}@nCm@dBu@zB"
+              },
+              "start_location": {
+                "lat": 37.4645763,
+                "lng": -122.4339524
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "194 ft",
+                "value": 59
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 12
+              },
+              "end_location": {
+                "lat": 37.5056911,
+                "lng": -122.4807273
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Capistrano Rd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yf|cFxaqjV[MQOi@i@"
+              },
+              "start_location": {
+                "lat": 37.5052512,
+                "lng": -122.4810888
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "92 ft",
+                "value": 28
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 13
+              },
+              "end_location": {
+                "lat": 37.5058489,
+                "lng": -122.4809734
+              },
+              "html_instructions": "Turn <b>left</b> onto <b>Ave Alhambra</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "qi|cFp_qjVQVMV"
+              },
+              "start_location": {
+                "lat": 37.5056911,
+                "lng": -122.4807273
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "79 ft",
+                "value": 24
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 7
+              },
+              "end_location": {
+                "lat": 37.5060624,
+                "lng": -122.4809731
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Sevilla Ave</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "qj|cF`aqjVQ?W?"
+              },
+              "start_location": {
+                "lat": 37.5058489,
+                "lng": -122.4809734
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "ogtcFbygjVWJCDAHEd@}Fg@MGw@G_CSg@C}@C{BQmAIgAAa@A{AJiCb@uBt@}@`@oAv@w@j@sCnCkDpDGJeAhAi@j@{@|@{BbCuF|FeDnDMD_BdBwE|EaDfDgJxJKTu@t@[`@aA|@g@`@i@`@MD}CjBsAv@kNvIiBjAy@f@SXaCxAmBfA_HdEuG~DyAx@sFlDwChBg@^s@p@w@x@q@z@sAtBk@pAo@`By@pC{AhFMJMh@oAtEoDhMwF`SkGhTeEhOkBpGw@tCkAxDe@dB[hA?NeBbGoD~LgBhFeDvJ[MQOi@i@QVMVQ?W?"
+      },
+      "summary": "CA-1 N/Cabrillo Hwy N",
+      "warnings": [],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}
