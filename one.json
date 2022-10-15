@@ -20,27 +20,27 @@
       "bounds": {
         "northeast": {
           "lat": 37.5060624,
-          "lng": -122.4335783
+          "lng": -122.4335708
         },
         "southwest": {
           "lat": 37.4641051,
-          "lng": -122.4809734
+          "lng": -122.4813337
         }
       },
       "copyrights": "Map data ©2022",
       "legs": [
         {
           "distance": {
-            "text": "4.2 mi",
-            "value": 6822
+            "text": "4.3 mi",
+            "value": 6853
           },
           "duration": {
             "text": "9 mins",
-            "value": 560
+            "value": 535
           },
           "duration_in_traffic": {
-            "text": "22 mins",
-            "value": 1325
+            "text": "23 mins",
+            "value": 1404
           },
           "end_address": "FH78+QJ Half Moon Bay, CA, USA",
           "end_location": {
@@ -78,21 +78,21 @@
             },
             {
               "distance": {
-                "text": "0.5 mi",
-                "value": 802
+                "text": "46 ft",
+                "value": 14
               },
               "duration": {
                 "text": "1 min",
-                "value": 69
+                "value": 2
               },
               "end_location": {
-                "lat": 37.5030682,
-                "lng": -122.4727224
+                "lat": 37.5057772,
+                "lng": -122.4808465
               },
               "html_instructions": "Turn <b>left</b> onto <b>Ave Alhambra</b>",
               "maneuver": "turn-left",
               "polyline": {
-                "points": "qj|cF`aqjVLWPWZc@JMRQNOHGDEFEDIRs@J]J_@R_ARcATuAZ_BLm@ViARmA^yBnAoHHg@n@sDRqAH_@XeB"
+                "points": "qj|cF`aqjVLW"
               },
               "start_location": {
                 "lat": 37.5058489,
@@ -102,97 +102,49 @@
             },
             {
               "distance": {
-                "text": "66 ft",
-                "value": 20
+                "text": "184 ft",
+                "value": 56
               },
               "duration": {
                 "text": "1 min",
-                "value": 2
+                "value": 12
               },
               "end_location": {
-                "lat": 37.5028998,
-                "lng": -122.472639
+                "lat": 37.505392,
+                "lng": -122.4810183
               },
-              "html_instructions": "Turn <b>right</b> toward <b>Obispo Rd</b>",
+              "html_instructions": "Turn <b>right</b> at the 1st cross street onto <b>Capistrano Rd</b>",
               "maneuver": "turn-right",
               "polyline": {
-                "points": "ey{cFnmojV`@O"
+                "points": "cj|cFh`qjVPWh@h@PN"
               },
               "start_location": {
-                "lat": 37.5030682,
-                "lng": -122.4727224
+                "lat": 37.5057772,
+                "lng": -122.4808465
               },
               "travel_mode": "DRIVING"
             },
             {
               "distance": {
-                "text": "0.4 mi",
-                "value": 571
+                "text": "4.1 mi",
+                "value": 6648
               },
               "duration": {
-                "text": "1 min",
-                "value": 58
-              },
-              "end_location": {
-                "lat": 37.5001548,
-                "lng": -122.467201
-              },
-              "html_instructions": "Slight <b>left</b> onto <b>Obispo Rd</b>",
-              "maneuver": "turn-slight-left",
-              "polyline": {
-                "points": "cx{cF~lojVbByCR]Na@@G@Cl@yBl@{Bj@uArBeFl@{A`@y@d@eARe@Re@"
-              },
-              "start_location": {
-                "lat": 37.5028998,
-                "lng": -122.472639
-              },
-              "travel_mode": "DRIVING"
-            },
-            {
-              "distance": {
-                "text": "138 ft",
-                "value": 42
-              },
-              "duration": {
-                "text": "1 min",
-                "value": 14
-              },
-              "end_location": {
-                "lat": 37.499812,
-                "lng": -122.4673978
-              },
-              "html_instructions": "Turn <b>right</b> onto <b>Coronado St</b>",
-              "maneuver": "turn-right",
-              "polyline": {
-                "points": "}f{cF~jnjV`@R`@R"
-              },
-              "start_location": {
-                "lat": 37.5001548,
-                "lng": -122.467201
-              },
-              "travel_mode": "DRIVING"
-            },
-            {
-              "distance": {
-                "text": "3.3 mi",
-                "value": 5252
-              },
-              "duration": {
-                "text": "6 mins",
-                "value": 374
+                "text": "8 mins",
+                "value": 478
               },
               "end_location": {
                 "lat": 37.4641239,
                 "lng": -122.4342343
               },
-              "html_instructions": "Turn <b>left</b> at the 1st cross street onto <b>CA-1 S</b>/<wbr/><b>Cabrillo Hwy N</b><div style=\"font-size:0.9em\">Pass by McDonald's (on the right in 2.8&nbsp;mi)</div>",
+              "html_instructions": "Turn <b>left</b> onto <b>CA-1 S</b>/<wbr/><b>Cabrillo Hwy N</b><div style=\"font-size:0.9em\">Pass by McDonald's (on the right in 3.7&nbsp;mi)</div>",
               "maneuver": "turn-left",
               "polyline": {
-                "points": "yd{cFflnjVLDx@sC~A}FZiAj@qBf@eBnCwJbAiDTs@^sA`@_B`@wANk@fBgGZeA@Wt@mCd@{Ax@qCn@aBRk@Ve@`@s@p@aAV]X]\\_@XYBEn@k@JIZU\\UXQz@i@b@Wt@e@|DgCh@[n@]ROjAo@tBqA~@m@lAu@f@[fAq@`BaAVMtAy@nAw@p@a@ZIx@i@ZQtCmBZQ~DeCn@a@j@]x@i@\\SPKBA|AaAt@e@z@g@\\UFQh@a@RORQTSVW@?PQJMNSt@u@PIpBsBvC}CzAaBz@}@x@_A`@a@nAsAbAeAtAyAlAqAJMFO`@c@\\]r@w@p@u@`AcAVYNQPQp@s@\\_@POVWh@k@VYTWb@e@XY`@c@TURUdAiAJEv@q@POjB_Bj@e@hAaAh@a@PM^Wj@_@JGBAZQXMVKZKNG^Mb@O|B_@FA`@ELATCN?LAL?p@An@@d@BN@dBPh@Dl@FhIp@|ALd@Dx@J~@H"
+                "points": "ug|cFjaqjVNf@TTL[@Et@_CPm@dAkDjBsG@MfDsLl@uBv@mCFIZiAf@eB`CmIh@iB~@mDjAcEn@{BnAgEd@}Ax@sC~A}FZiAj@qBf@eBnCwJbAiDTs@^sA`@_B`@wANk@fBgGZeA@Wt@mCd@{Ax@qCn@aBRk@Ve@`@s@p@aAV]X]\\_@XYBEn@k@JIZU\\UXQz@i@b@Wt@e@|DgCh@[n@]ROjAo@tBqA~@m@lAu@f@[fAq@`BaAVMtAy@nAw@p@a@ZIx@i@ZQtCmBZQ~DeCn@a@j@]x@i@\\SPKBA|AaAt@e@z@g@\\UFQh@a@RORQTSVW@?PQJMNSt@u@PIpBsBvC}CzAaBz@}@x@_A`@a@nAsAbAeAtAyAlAqAJMFO`@c@\\]r@w@p@u@`AcAVYNQPQp@s@\\_@POVWh@k@VYTWb@e@XY`@c@TURUdAiAJEv@q@POjB_Bj@e@hAaAh@a@PM^Wj@_@JGBAZQXMVKZKNG^Mb@O|B_@FA`@ELATCN?LAL?p@An@@d@BN@dBPh@Dl@FhIp@|ALd@Dx@J~@H"
               },
               "start_location": {
-                "lat": 37.499812,
-                "lng": -122.4673978
+                "lat": 37.505392,
+                "lng": -122.4810183
               },
               "travel_mode": "DRIVING"
             },
@@ -250,7 +202,7 @@
         }
       ],
       "overview_polyline": {
-        "points": "{k|cF`aqjVh@?^o@f@q@b@a@NMLO~@qDrAgHj@wCnBiLvAmIXeB`@OvBwD`AgDl@{Bj@uA`DaIfA_Cf@kAbAf@LDx@sCzBgIrAwEhGiTzDkNZeA@WzAiFx@qCn@aBj@qArAuBp@{@jBkB~AgArIoFxDyBjHqEvG{D`CyAZIx@i@pD_CzEwCrD}BhDuBxA}@FQh@a@f@a@l@k@n@s@t@u@PIhGqGrFaGvHeIR]~@aA~DkE|EeFtB{Bh@k@dAiAJEhAaAvCeCrBcBp@e@vA{@|Am@bA]dCa@tAK|BAt@DnCVzNlAxBT@g@}AODi@BGFGPG"
+        "points": "{k|cF`aqjVh@?^o@z@x@Nf@TTNa@fAmDpD_M@MfDsLdBcGb@sArGkUpFeRxCqKfA{DpG{TrBwHbCmI@Wt@mC~AmFbAmCx@yAhA_BtA}Az@u@x@k@nDyBjHqEnIeFnBmAxBoAdDqBp@a@ZItA{@pD_CtIoFpCcBpBmA\\UFQ|@q@h@e@v@w@dAiAPIpBsBrF_GtB}BjGuGxA_BFO`@c@pAuArByBjBqB|EeFpCyCJEv@q@|BoBpDwCzAaAhBw@n@Ub@O|B_@h@Gb@E|ACtADtBR~NlA~AP~@H@g@}AODe@@IBEVK"
       },
       "summary": "CA-1 S/Cabrillo Hwy N",
       "warnings": [],
