@@ -68,6 +68,8 @@ from
   item1
   join item2 on item1.t = item2.t
 ```
+The `-7 hours` bit is needed because the original commit dates are recorded as UTC, but I need to display them in local Pacific time.
+
 We pasted the results into [this Google Sheet](https://docs.google.com/spreadsheets/d/1JOimtkugZBF_YQxqn0Gn6NiIhNz-OMH2rpOZtmECAY4/edit) and plotted this chart:
 
 <img width="925" alt="A chart showing the two lines over time" src="https://user-images.githubusercontent.com/9599/196016852-22193d18-7935-4941-9921-8c4deb591da5.png">
