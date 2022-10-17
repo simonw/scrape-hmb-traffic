@@ -29,6 +29,7 @@ jobs:
         curl "https://maps.googleapis.com/maps/api/directions/json?origin=FH78%2BQJ,%20Half%20Moon%20Bay%20CA&destination=GG49%2BCH,%20Half%20Moon%20Bay,%20California&departure_time=now&key=$GOOGLE_MAPS_KEY" | jq > two.json
     - name: Build SQLite database
       run: |
+        rm -f hmb.db
         git-history file hmb.db one.json \
         --convert '
         try:
