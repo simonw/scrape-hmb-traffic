@@ -1,7 +1,7 @@
 name: Scrape traffic
 
 on:
-  push:
+#  push:
   workflow_dispatch:
 #  schedule:
 #  - cron:  '*/5 * * * *'
