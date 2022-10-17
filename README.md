@@ -68,6 +68,9 @@ from
   item1
   join item2 on item1.t = item2.t
 ```
+
+[Try running this query](https://lite.datasette.io/?url=https://github.com/simonw/scrape-hmb-traffic/blob/main/hmb.db?&install=datasette-copyable#/hmb?sql=with+item1+as+(%0A++select%0A++++time(datetime(commits.commit_at%2C+'-7+hours'))+as+t%2C%0A++++duration_in_traffic+%2F+60+as+mins_in_traffic%0A++from%0A++++item_version%0A++++join+commits+on+item_version._commit+%3D+commits.id%0A++order+by%0A++++commits.commit_at%0A)%2C%0Aitem2+as+(%0A++select%0A++++time(datetime(commits.commit_at%2C+'-7+hours'))+as+t%2C%0A++++duration_in_traffic+%2F+60+as+mins_in_traffic%0A++from%0A++++item2_version%0A++++join+commits+on+item2_version._commit+%3D+commits.id%0A++order+by%0A++++commits.commit_at%0A)%0Aselect%0A++item1.*%2C%0A++item2.mins_in_traffic+as+mins_in_traffic_other_way%0Afrom%0A++item1%0A++join+item2+on+item1.t+%3D+item2.t) in Datasette Lite.
+
 The `-7 hours` bit is needed because the original commit dates are recorded as UTC, but I need to display them in local Pacific time.
 
 We pasted the results into [this Google Sheet](https://docs.google.com/spreadsheets/d/1JOimtkugZBF_YQxqn0Gn6NiIhNz-OMH2rpOZtmECAY4/edit) and plotted this chart:
