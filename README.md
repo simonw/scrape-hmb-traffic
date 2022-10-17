@@ -73,3 +73,7 @@ The `-7 hours` bit is needed because the original commit dates are recorded as U
 We pasted the results into [this Google Sheet](https://docs.google.com/spreadsheets/d/1JOimtkugZBF_YQxqn0Gn6NiIhNz-OMH2rpOZtmECAY4/edit) and plotted this chart:
 
 <img width="925" alt="A chart showing the two lines over time" src="https://user-images.githubusercontent.com/9599/196016852-22193d18-7935-4941-9921-8c4deb591da5.png">
+
+Here's the same chart for Sunday:
+
+<img width="923" alt="This chart shows the same thing but for Sunday" src="https://user-images.githubusercontent.com/9599/196091127-49f85e0b-f9cf-428b-8d8b-b6a900d58111.png">
