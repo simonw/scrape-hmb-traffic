@@ -1,5 +1,7 @@
 # Half Moon Bay Pumpkin Festival traffic on Saturday 15th October 2022
 
+See [Measuring traffic during the Half Moon Bay Pumpkin Festival](https://simonwillison.net/2022/Oct/19/measuring-traffic/) for a detailed explanation of this project.
+
 A scraper that records estimated driving times according to the Google Maps [Directions API](https://developers.google.com/maps/documentation/directions/overview) between the towns of El Granada and Half Moon Bay during the annual Half Moon Bay Art & Pumpkin Festival.
 
 The scraper runs [this script](.github/workflows/scrape.yml) every five minutes and records the output of the JSON API in these files:
